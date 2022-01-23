@@ -21,7 +21,7 @@
 title: Kitchenly unabled
 email: magdalena.wojcik@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Making the best of pandemic by finally learning to cook.
+  Making the best of the pandemic by finally learning how to cook.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: _claygirl
